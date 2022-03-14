@@ -1,6 +1,8 @@
 # Chat Application
 
-Built in with HTML, CSS, Bootstrap.
+Static Application
+
+Built with HTML, CSS, Bootstrap.
 
 Time taken: `3 Hrs`
 
